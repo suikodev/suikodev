@@ -35,7 +35,7 @@
 
 ###
 
-<h2 align="center">📊GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&username=suikodev" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&username=suikodev" height="150" alt="languages graph"  />
@@ -44,10 +44,11 @@
 ###
 
 <div align="center">
-  <h2>📃Latest Blogs</h2>
+  <h2>📃 Recent Blog Posts</h2>
+<!-- BLOG-POST-LIST:START -->
   	<p><a href="https://suiko.dev/blog/union-to-set">Union to Set</a></p>
     <p><a href="https://suiko.dev/blog/mqtt-5">MQTT 基础与 MQTT5 新增特性</a></p>
+<!-- BLOG-POST-LIST:END -->
 </div>
 
 ###
-
