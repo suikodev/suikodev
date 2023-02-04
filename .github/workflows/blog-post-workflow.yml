@@ -14,4 +14,4 @@ jobs:
         with:
           max_post_count: "2"
           feed_list: "https://suiko.dev/rss/feed.xml"
-          template: '<p><a href="$url">$title</a></p>'
+          template: '$newline<p><a href="$url">$title</a></p>$newline'
