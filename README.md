@@ -50,9 +50,9 @@
 <div align="center">
   <h2>📃 Recent Blog Posts</h2>
 <!-- BLOG-POST-LIST:START -->
-<p><a href="https://suiko.dev/en/blog/union-to-set">Union to Set&lpar;en&rpar;</a></p>
+<p><a href="https://suiko.dev/en/blog/union-to-set">A utility type for converting union to set in TypeScript &lpar;EN&rpar;</a></p>
 
-<p><a href="https://suiko.dev/zh/blog/union-to-set">Union to Set&lpar;zh&rpar;</a></p>
+<p><a href="https://suiko.dev/zh/blog/union-to-set">一个用于在 Typescript 中将 Union 转化为 Set 的工具类型 &lpar;ZH&rpar;</a></p>
 <!-- BLOG-POST-LIST:END -->
 </div>
 
