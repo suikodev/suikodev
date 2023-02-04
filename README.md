@@ -50,9 +50,9 @@
 <div align="center">
   <h2>📃 Recent Blog Posts</h2>
 <!-- BLOG-POST-LIST:START -->
-<p><a href="https://suiko.dev/zh/blog/union-to-set">Union to Set</a></p>
+<p><a href="https://suiko.dev/en/blog/union-to-set">Union to Set&lpar;en&rpar;</a></p>
 
-<p><a href="https://suiko.dev/zh/blog/mqtt-5">MQTT 基础与 MQTT5 新增特性</a></p>
+<p><a href="https://suiko.dev/zh/blog/union-to-set">Union to Set&lpar;zh&rpar;</a></p>
 <!-- BLOG-POST-LIST:END -->
 </div>
 
