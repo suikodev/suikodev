@@ -5,7 +5,7 @@
 <h2 align="center">🖖 About Me</h2>
 <p align="center">By day, just a regular software engineer. Don't get me wrong, I work as a software  engineer at night as well (not a vigilante hacker)</p>
 <p align="center">working on a cool project that will be open source soon😎</p>
-<p align="center">Founder of <a href="https://github.com/AnarchStudio">@AnarchStudio</a></p>
+<p align="center">Co-founder of <a href="https://github.com/AnarchStudio">@AnarchStudio</a></p>
 
 ###
 
