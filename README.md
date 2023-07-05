@@ -26,9 +26,9 @@
 <div>
   <h2>📃 Recent Blog Posts</h2>
 <!-- BLOG-POST-LIST:START -->
-<p><a href="https://suiko.dev/zh/blog/godot-engine-2d-rpg-game-best-practice">Godot Engine 即时战斗 2D RPG 最佳实践 &lpar;ZH&rpar;</a></p>
+<p><a href="https://suiko.dev/zh/blog/internet-advertising">互联网广告核心术语与广告类型 &lpar;ZH&rpar;</a></p>
 
-<p><a href="https://suiko.dev/en/blog/javaScript-trick-guessing-users-country-calling-codes-by-time-zone">JavaScript Trick: Guessing Users&#39; Country Calling Codes by Time Zone &lpar;EN&rpar;</a></p>
+<p><a href="https://suiko.dev/zh/blog/godot-engine-2d-rpg-game-best-practice">Godot Engine 即时战斗 2D RPG 最佳实践 &lpar;ZH&rpar;</a></p>
 <!-- BLOG-POST-LIST:END -->
 </div>
 
