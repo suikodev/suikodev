@@ -4,7 +4,6 @@
 
 <h2>🖖 About Me</h2>
 <p>The Cyber Magician</p>
-<p>Founder of <a href="https://github.com/AstraSurge">@AstraSurge</a></p>
 
 ###
 
